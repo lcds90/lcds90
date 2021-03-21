@@ -15,13 +15,17 @@ Junior <b>Programmer</b> aspiring to <b>fullstack</b>
 <hr>
 </pre>
 
-## Links
-[![Linkedin](https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=lcds90&color=blue&style=for-the-badge&link=https://www.linkedin.com/in/lcds90/),
-![Portfolio](https://img.shields.io/static/v1?&label=Portflio&message=site&color=purple&style=for-the-badge&link=http://lcds.me)],
-
-<p align="center">
+<a href="https://www.linkedin.com/in/lcds90/">
+  <img align="left" src="https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=lcds90&color=blue&style=for-the-badge" height=25 width=180/>
+</a>
+<a href="http://lcds.me">
+  <img align="left" src="https://img.shields.io/static/v1?&label=Portflio&message=site&color=purple&style=for-the-badge" height=25 width=160/>
+</a>
+<p align="right">
 <i>I love to learn and pass on knowledge, even though it is currently basic, the principle of my professional and personal growth comes from that.</i><br>
-Fun fact:grey_question: My love for technology ... i think it could be measured by my love for cats, currently I have <b>11</b> :cat2:
+
+Fun fact:grey_question:
+- My love for technology ... i think it could be measured by my love for cats, currently I have <b>11</b> :cat2:
 </p>
 
 <a href="https://github.com/lcds90/">
