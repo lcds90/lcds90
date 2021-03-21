@@ -11,7 +11,7 @@ Fun fact:grey_question: My love for technology ... i think it could be measured 
 
 <pre>
 - Junior <b>Programmer</b> aspiring to <b>fullstack</b>
-- 
+ 
                 - <b>23</b> years old <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width=30 height=20 / >
                                 
                                 - Graduated in <b>Internet Systems Technology</b>
