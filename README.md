@@ -1,14 +1,14 @@
 # I'm Leonardo 🌈
 
 <pre>
-- Junior <b>Programmer</b> aspiring to <b>fullstack</b>
+- Junior <b>Programmer</b> aspiring to <b>fullstack</b>                                                                                      <img src="https://lh3.googleusercontent.com/proxy/OMpCd2XrMmo7SFn4Pye-qoioQp810fn2HbjR-ssiuBWktn7dlG18WyA5QftpdwzuuZgwQ9o3lMdXgzBXEQa-C5-X1oBKmrY" width=150 height=100 / >
  
                 - <b>23</b> years old <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width=30 height=20 / >
                                 
                                 - Graduated in <b>Internet Systems Technology</b>
 
 
-                                                        <img src="https://lh3.googleusercontent.com/proxy/OMpCd2XrMmo7SFn4Pye-qoioQp810fn2HbjR-ssiuBWktn7dlG18WyA5QftpdwzuuZgwQ9o3lMdXgzBXEQa-C5-X1oBKmrY" width=300 height=200 / >
+
 </pre>
 
 ## Links
