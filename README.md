@@ -1,16 +1,34 @@
-### Hi there 👋
+# I'm Leonardo 🌈
 
-<!--
-**lcds90/lcds90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Links
+[![Linkedin](https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=lcds90&color=blue&style=for-the-badge&link=https://www.linkedin.com/in/lcds90/),
+![Portfolio](https://img.shields.io/static/v1?&label=Portflio&message=site&color=purple&style=for-the-badge&link=http://lcds.me)],
 
-Here are some ideas to get you started:
+<p align="center">
+<i>I love to learn and pass on knowledge, even though it is currently basic, the principle of my professional and personal growth comes from that.</i><br>
+Fun fact:grey_question: My love for technology ... i think it could be measured by my love for cats, currently I have <b>11</b> :cat2:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+- Junior <b>Programmer</b> aspiring to <b>fullstack</b>
+- 
+                - <b>23</b> years old <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width=30 height=20 / >
+                                
+                                - Graduated in <b>Internet Systems Technology</b>
+
+
+                                                        <img src="https://lh3.googleusercontent.com/proxy/OMpCd2XrMmo7SFn4Pye-qoioQp810fn2HbjR-ssiuBWktn7dlG18WyA5QftpdwzuuZgwQ9o3lMdXgzBXEQa-C5-X1oBKmrY" width=300 height=200 / >
+</pre>
+
+<hr>
+
+<a href="https://github.com/lcds90/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds90&langs_count=10&theme=jolly&layout=compact&include_all_commits=true" />
+</a>
+<a href="https://github.com/lcds90/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lcds90&show_icons=true&theme=jolly&hide=contribs,issues,stars" />
+</a>
+<a href="https://github.com/lcds90/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=jolly" />
+</a>
+<hr>
