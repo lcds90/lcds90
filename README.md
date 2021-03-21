@@ -12,7 +12,7 @@ Junior <b>Programmer</b> aspiring to <b>fullstack</b>
                                 
                                 Graduated in <b>Internet Systems Technology</b>
 
-                                                                   <img src="https://lh3.googleusercontent.com/proxy/OMpCd2XrMmo7SFn4Pye-qoioQp810fn2HbjR-ssiuBWktn7dlG18WyA5QftpdwzuuZgwQ9o3lMdXgzBXEQa-C5-X1oBKmrY" width=150 height=100 / >
+                                                                   <img src="https://raw.githubusercontent.com/lcds90/lcds90/main/img/computer.gif" width=150 height=100 / >
 <hr>
 </pre>
 
