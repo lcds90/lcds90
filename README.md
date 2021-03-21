@@ -25,7 +25,7 @@ Junior <b>Programmer</b> aspiring to <b>fullstack</b>
 <i>I love to learn and pass on knowledge, even though it is currently basic, the principle of my professional and personal growth comes from that.</i><br>
 
 Fun fact:grey_question:
-- My love for technology ... i think it could be measured by my love for cats, currently I have <b>11</b> :cat2:
+- My love for technology ... i think it could be measured by my love for <b>CATS</b>, currently I have <b>11</b> :cat2:
 </p>
 
 <a href="https://github.com/lcds90/">
