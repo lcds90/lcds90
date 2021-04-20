@@ -11,9 +11,9 @@
 Junior <b>Programmer</b> aspiring to <b>fullstack</b>
        Graduated in <b>Internet Systems Technology</b>
 
-                                                       <i>I always love to learn new things and pass on knowledge,
+                                                       <i>"I always love to learn new things and pass on knowledge,
                                                       the principle of my professional and
-                                                    personal growth comes from that.</i><br>
+                                                    personal growth comes from that"</i><br>
 
 
 </pre>
