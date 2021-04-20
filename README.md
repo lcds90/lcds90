@@ -25,7 +25,7 @@ Junior <b>Programmer</b> aspiring to <b>fullstack</b>
   <img align="right" src="https://img.shields.io/static/v1?&label=Portflio&message=site&color=purple&style=for-the-badge" height=25 width=160/>
 </a>
 <p align="right">
-
+<br>
 Fun fact:grey_question:
 - My love for technology ... i think it could be measured by my love for <b>CATS</b>, currently I have <b>11</b> :cat2:
 </p>
