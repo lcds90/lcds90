@@ -29,6 +29,14 @@ Fun fact:grey_question:
 - My love for technology ... i think it could be measured by my love for <b>CATS</b>, currently I have <b>11</b> :cat2:
 </p>
 
+I am currently studying
+
+![angular](https://badges.aleen42.com/src/angular.svg)
+![javascript](https://badges.aleen42.com/src/javascript.svg)
+![jest](https://badges.aleen42.com/src/jest_1.svg)
+![node](https://badges.aleen42.com/src/node.svg)
+![typescript](https://badges.aleen42.com/src/typescript.svg)
+
 <a href="https://github.com/lcds90/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds90&langs_count=10&theme=jolly&layout=compact&include_all_commits=true" width=400/>
 </a>
