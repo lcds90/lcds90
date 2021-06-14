@@ -48,6 +48,6 @@ I am currently studying
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lcds90&show_icons=true&theme=jolly&hide=contribs,issues,stars" width=400 />
 </a>
 <a href="https://wakatime.com/@lcds90">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=jolly"  width=400/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=jolly&layout=compact"  width=400/>
 </a>
 <hr>
