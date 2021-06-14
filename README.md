@@ -34,11 +34,10 @@ Fun fact:grey_question:
 <p align="center">
 I am currently studying
 <br><br>
-<img src="https://badges.aleen42.com/src/angular.svg">
+<img src="https://badges.aleen42.com/src/react.svg">
 <img src="https://badges.aleen42.com/src/javascript.svg">
 <img src="https://badges.aleen42.com/src/jest_1.svg">
 <img src="https://badges.aleen42.com/src/node.svg">
-<img src="https://badges.aleen42.com/src/typescript.svg">
 <br>
 </p>
 <a href="https://github.com/lcds90/">
