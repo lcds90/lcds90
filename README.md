@@ -8,8 +8,16 @@
 
 - Graduated in <b>Internet Systems Technology</b>.
 
-- Actually learning React, Node, Jest and Javascript/Typescript.
+- Web Fullstack Developer Student at <b>Trybe</b>
 
+<div align="center">
+
+<img src="./img/computer.gif" width="100px">
+
+**Actually** learning _React_, _Javascript/Typescript_, _Jest_ and  _Node_. 
+
+</div>
+       
 <p align="center">
 <img src="https://badges.aleen42.com/src/react.svg">
 <img src="https://badges.aleen42.com/src/javascript.svg">
@@ -28,13 +36,13 @@ Besides programming, i love to learn about production music too! :notes: :musica
 <div align="center">
        
 <a href="https://www.linkedin.com/in/lcds90/">
-  <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=lcds90&color=purple&style=for-the-badge" height=25 width=180/>
+  <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=lcds90&color=blue&style=for-the-badge" height=25 width=180/>
 </a>
 <a href="http://lcds.me">
-  <img align="center" src="https://img.shields.io/static/v1?&label=Portflio&message=site&color=purple&style=for-the-badge" height=25 width=160/>
+  <img align="center" src="https://img.shields.io/static/v1?&label=Portflio&message=site&color=green&style=for-the-badge" height=25 width=160/>
 </a>
 <a href="mailto:lcds90@gmail.com">
-  <img align="center" src="https://img.shields.io/static/v1?&logo=gmail&label=Send&message=Email&color=purple&style=for-the-badge" height=25 width=160/>
+  <img align="center" src="https://img.shields.io/static/v1?&logo=gmail&label=Send&message=Email&color=red&style=for-the-badge" height=25 width=160/>
 </a>
        
 </div>
