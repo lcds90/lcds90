@@ -62,6 +62,10 @@ Besides programming, i love to learn about production music too! :notes: :musica
 </div>
 <hr>
 
+<details>
+       <summary>Wakatime and Github Stats Details</summary>
+       <div align=center>
+              
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -147,3 +151,7 @@ Java                     4 repos             █░░░░░░░░░░�
 
  Last Updated on 06/07/2021
 <!--END_SECTION:waka-->
+              
+              
+   </div>
+</details>
