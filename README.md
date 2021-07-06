@@ -8,11 +8,12 @@
 
 - Graduated in <b>Internet Systems Technology</b>.
 
-- Actually learning React, Node, Jest and Typescript.
+- Actually learning React, Node, Jest and Javascript/Typescript.
 
 <p align="center">
 <img src="https://badges.aleen42.com/src/react.svg">
 <img src="https://badges.aleen42.com/src/javascript.svg">
+<img src="https://badges.aleen42.com/src/typescript.svg">
 <img src="https://badges.aleen42.com/src/jest_1.svg">
 <img src="https://badges.aleen42.com/src/node.svg">
 <br>
