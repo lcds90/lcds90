@@ -51,20 +51,15 @@ Besides programming, i love to learn about production music too! :notes: :musica
 
 <div align="center">
 <a href="https://github.com/lcds90/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds90&langs_count=10&theme=gruvbox&layout=compact&include_all_commits=true" width="400px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds90&langs_count=10&theme=gruvbox&layout=compact&include_all_commits=true" height="400px" width="400px"/>
 </a>
 <a href="https://wakatime.com/@lcds90">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=gruvbox&layout=compact"  width="400px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=gruvbox&layout=compact" height="400px" width="400px"/>
 </a>
-<a href="https://github.com/lcds90/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lcds90&show_icons=true&theme=gruvbox&hide=contribs,issues,stars" width="350px" />
-</a>
-</div>
-<hr>
-
+       
 <details>
        <summary>Wakatime and Github Stats Details</summary>
-       <div>
+       <div align="justify">
               
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
@@ -155,3 +150,6 @@ Java                     4 repos             █░░░░░░░░░░�
               
    </div>
 </details>
+       
+       
+</div>
