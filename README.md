@@ -64,7 +64,7 @@ Besides programming, i love to learn about production music too! :notes: :musica
 
 <details>
        <summary>Wakatime and Github Stats Details</summary>
-       <div align=center>
+       <div>
               
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
