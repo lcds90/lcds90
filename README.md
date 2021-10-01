@@ -67,7 +67,7 @@ Besides programming, i love to learn about production music too! :notes: :musica
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 715 Contributions in the Year 2021
  > 
 > 📦 535.2 kB Used in GitHub's Storage 
  > 
