@@ -51,11 +51,14 @@ Besides programming, i love to learn about production music too! :notes: :musica
 * * *
 
 <div align="center">
-<a href="https://github.com/lcds90/">
+<a href="https://wakatime.com/@lcds90">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds90&langs_count=10&theme=gruvbox&layout=compact&include_all_commits=true" height="400px" width="400px"/>
 </a>
 <a href="https://wakatime.com/@lcds90">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=gruvbox" height="400px" width="400px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lcds90&count_private=true&theme=gruvbox"/>
+</a>
+<a href="https://wakatime.com/@lcds90">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=gruvbox&layout=compact"/>
 </a>
        
 <details>
