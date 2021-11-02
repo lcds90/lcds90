@@ -66,7 +66,13 @@ Besides programming, i love to learn about production music too! :notes: :musica
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=gruvbox&layout=compact"/>
 </a>
   <img align="center" width="400px" src="https://github-profile-trophy.vercel.app/?username=lcds90&row=2&column=3&theme=gruvbox"/>
+
+* * *
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lcds90&theme=dark)](https://git.io/streak-stats)
+
 </div>
+
 
 * * *
        
