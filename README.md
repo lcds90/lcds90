@@ -81,13 +81,15 @@ Besides programming, i love to learn about production music too! :notes: :musica
        <div align="justify">
               
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-879%20hrs%2010%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,081 Contributions in the Year 2021
+> 🏆 1,082 Contributions in the Year 2021
  > 
 > 📦 557.6 kB Used in GitHub's Storage 
  > 
@@ -126,17 +128,17 @@ Sunday       88 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   39.68% 
-Docker                   3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.52% 
-JavaScript               2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99% 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.07%
+Docker                   3 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.01% 
+JavaScript               2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.64% 
+Vue.js                   2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.72% 
+JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.37% 
+YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.48%
 
 🔥 Editors: 
-VS Code                  14 hrs 17 mins      █████████████████████████   100.0%
+VS Code                  10 hrs 36 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    14 hrs 17 mins      █████████████████████████   100.0%
+Linux                    10 hrs 36 mins      █████████████████████████   100.0%
 
 ```
 
@@ -157,7 +159,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lcds90/lcds90/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
               
               
