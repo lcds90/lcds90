@@ -81,15 +81,15 @@ Besides programming, i love to learn about production music too! :notes: :musica
        <div align="justify">
               
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,089 Contributions in the Year 2021
+> 🏆 1,090 Contributions in the Year 2021
  > 
 > 📦 557.6 kB Used in GitHub's Storage 
  > 
@@ -128,19 +128,19 @@ Sunday       86 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    21 hrs 23 mins      ████████████████░░░░░░░░░   64.52% 
-Vue.js                   3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-Docker                   2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.71% 
-JavaScript               2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
-YAML                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.7%
+Other                    17 hrs 38 mins      ███████████████░░░░░░░░░░   62.89% 
+Vue.js                   3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+Docker                   2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
+YAML                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.74% 
+JavaScript               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.33%
 
 🔥 Editors: 
-Unknown Editor           20 hrs              ███████████████░░░░░░░░░░   60.34% 
-VS Code                  13 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   39.66%
+Unknown Editor           16 hrs 15 mins      ██████████████░░░░░░░░░░░   57.94% 
+VS Code                  11 hrs 47 mins      ██████████░░░░░░░░░░░░░░░   42.06%
 
 💻 Operating System: 
-Unknown OS               20 hrs              ███████████████░░░░░░░░░░   60.34% 
-Linux                    13 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   39.66%
+Unknown OS               16 hrs 15 mins      ██████████████░░░░░░░░░░░   57.94% 
+Linux                    11 hrs 47 mins      ██████████░░░░░░░░░░░░░░░   42.06%
 
 ```
 
@@ -161,7 +161,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lcds90/lcds90/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/12/2021
+ Last Updated on 11/12/2021
 <!--END_SECTION:waka-->
               
               
