@@ -81,17 +81,17 @@ Besides programming, i love to learn about production music too! :notes: :musica
        <div align="justify">
               
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-896%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-896%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,094 Contributions in the Year 2021
+> 🏆 1,095 Contributions in the Year 2021
  > 
-> 📦 557.6 kB Used in GitHub's Storage 
+> 📦 557.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -128,19 +128,19 @@ Sunday       86 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    6 hrs 1 min         █████████░░░░░░░░░░░░░░░░   37.98% 
-Docker                   2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.96% 
-YAML                     2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46% 
-JavaScript               1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
-Vue.js                   1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.91%
+Other                    3 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.62% 
+YAML                     2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   26.1% 
+JavaScript               1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57% 
+Vue.js                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.82% 
+Docker                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   9.61%
 
 🔥 Editors: 
-VS Code                  10 hrs 37 mins      ████████████████░░░░░░░░░   66.92% 
-Unknown Editor           5 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.08%
+VS Code                  7 hrs 21 mins       █████████████████░░░░░░░░   69.37% 
+Unknown Editor           3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   30.63%
 
 💻 Operating System: 
-Linux                    10 hrs 37 mins      ████████████████░░░░░░░░░   66.92% 
-Unknown OS               5 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.08%
+Linux                    7 hrs 21 mins       █████████████████░░░░░░░░   69.37% 
+Unknown OS               3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   30.63%
 
 ```
 
@@ -161,7 +161,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lcds90/lcds90/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/12/2021
+ Last Updated on 15/12/2021
 <!--END_SECTION:waka-->
               
               
