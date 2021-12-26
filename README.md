@@ -81,7 +81,7 @@ Besides programming, i love to learn about production music too! :notes: :musica
        <div align="justify">
               
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-905%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-911%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -89,7 +89,7 @@ Besides programming, i love to learn about production music too! :notes: :musica
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,106 Contributions in the Year 2021
+> 🏆 1,107 Contributions in the Year 2021
  > 
 > 📦 557.7 kB Used in GitHub's Storage 
  > 
@@ -128,17 +128,17 @@ Sunday       83 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 11 mins       ████████████████░░░░░░░░░   66.11% 
-JavaScript               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.03% 
-HTML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.52%
+Vue.js                   6 hrs 12 mins       █████████████████░░░░░░░░   69.07% 
+JavaScript               1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
+HTML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75% 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
 
 🔥 Editors: 
-VS Code                  7 hrs 51 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 59 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    7 hrs 51 mins       █████████████████████████   100.0%
+Linux                    8 hrs 59 mins       █████████████████████████   100.0%
 
 ```
 
@@ -159,7 +159,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lcds90/lcds90/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/12/2021
+ Last Updated on 26/12/2021
 <!--END_SECTION:waka-->
               
               
