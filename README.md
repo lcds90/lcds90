@@ -81,15 +81,15 @@ Besides programming, i love to learn about production music too! :notes: :musica
        <div align="justify">
               
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-926%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-933%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1 Contributions in the Year 2022
+> 🏆 2 Contributions in the Year 2022
  > 
 > 📦 557.9 kB Used in GitHub's Storage 
  > 
@@ -128,17 +128,17 @@ Sunday       83 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               5 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.93% 
-CSS                      3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08% 
-Vue.js                   2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
-JSX                      2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.01% 
-TypeScript               2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.44%
+JavaScript               6 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   31.23% 
+TypeScript               5 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.55% 
+CSS                      3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
+Vue.js                   2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
+Markdown                 1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.8%
 
 🔥 Editors: 
-VS Code                  19 hrs 11 mins      █████████████████████████   100.0%
+VS Code                  20 hrs 45 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    19 hrs 11 mins      █████████████████████████   100.0%
+Linux                    20 hrs 45 mins      █████████████████████████   100.0%
 
 ```
 
@@ -159,7 +159,7 @@ PHP                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lcds90/lcds90/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/01/2022
+ Last Updated on 03/01/2022
 <!--END_SECTION:waka-->
               
               
