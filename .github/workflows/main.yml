@@ -17,5 +17,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_UPDATED_DATE: "True"
-          COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "Bora atualizar quanto codei! :thinking: :hand_over_mouth: :partying_face: :heart: :technologist:"
