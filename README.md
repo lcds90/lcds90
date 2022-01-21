@@ -81,7 +81,7 @@ Besides programming, i love to learn about production music too! :notes: :musica
        <div align="justify">
               
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C006%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C011%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
@@ -91,7 +91,7 @@ Besides programming, i love to learn about production music too! :notes: :musica
 
 > 🏆 37 Contributions in the Year 2022
  > 
-> 📦 558.1 kB Used in GitHub's Storage 
+> 📦 558.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -159,7 +159,7 @@ PHP                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lcds90/lcds90/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/01/2022 18:55:57 UTC
+ Last Updated on 21/01/2022 18:55:27 UTC
 <!--END_SECTION:waka-->
               
               
