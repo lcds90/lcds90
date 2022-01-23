@@ -81,7 +81,7 @@ Besides programming, i love to learn about production music too! :notes: :musica
        <div align="justify">
               
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C011%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C014%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
@@ -159,7 +159,7 @@ PHP                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lcds90/lcds90/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/01/2022 18:54:12 UTC
+ Last Updated on 23/01/2022 18:48:50 UTC
 <!--END_SECTION:waka-->
               
               
