@@ -18,13 +18,12 @@
 
 </div>
        
-<p align="center">
-<img src="https://badges.aleen42.com/src/react.svg">
-<img src="https://badges.aleen42.com/src/redux.svg"> 
+<p align="center"> 
 <img src="https://badges.aleen42.com/src/javascript.svg">
-<img src="https://badges.aleen42.com/src/typescript.svg">
 <img src="https://badges.aleen42.com/src/jest_1.svg">
 <img src="https://badges.aleen42.com/src/node.svg">
+<img src="https://badges.aleen42.com/src/typescript.svg">
+<img src="https://badges.aleen42.com/src/vue.svg">
 <br>
 </p>
 
@@ -39,11 +38,12 @@ Besides programming, i love to learn about production music too! :notes: :musica
 <a href="https://www.linkedin.com/in/lcds90/">
   <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=lcds90&color=blue&style=for-the-badge" height=25 width=180/>
 </a>
-<a href="http://lcds.me">
-  <img align="center" src="https://img.shields.io/static/v1?&label=Portflio&message=site&color=green&style=for-the-badge" height=25 width=160/>
-</a>
 <a href="mailto:lcds90@gmail.com">
   <img align="center" src="https://img.shields.io/static/v1?&logo=gmail&label=Send&message=Email&color=red&style=for-the-badge" height=25 width=160/>
+</a>   
+<a href="https://lcds.vercel.app/">
+  <img align="center" src="https://raw.githubusercontent.com/lcds90/portfolio-react/main/assets/img/profile2.png" height=100 width=100/>
+  Portfólio
 </a>
        
 </div>
