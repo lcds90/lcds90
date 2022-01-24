@@ -39,7 +39,7 @@ Besides programming, i love to learn about production music too! :notes: :musica
   <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=lcds90&color=blue&style=for-the-badge" height=25 width=180/>
 </a>
 <a href="mailto:lcds90@gmail.com">
-  <img align="center" src="https://img.shields.io/static/v1?&logo=gmail&label=Send&message=Email&color=red&style=for-the-badge" height=25 width=160/>
+  <img align="center" src="https://avatars.githubusercontent.com/u/44562511" height=25 width=160/>
 </a>   
 <a href="https://lcds.vercel.app/">
   <img align="center" src="https://raw.githubusercontent.com/lcds90/portfolio-react/main/assets/img/profile2.png" height=100 width=100/>
