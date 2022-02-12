@@ -81,9 +81,9 @@ Besides programming, i love to learn about production music too! :notes: :musica
        <div align="justify">
               
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C126%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -128,17 +128,17 @@ Sunday       95 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               20 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   40.25% 
-Vue.js                   13 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   25.78% 
-JavaScript               12 hrs 12 mins      ██████░░░░░░░░░░░░░░░░░░░   24.0% 
-JSON                     2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
-Markdown                 1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.09%
+TypeScript               16 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   33.3% 
+Vue.js                   15 hrs 16 mins      ███████░░░░░░░░░░░░░░░░░░   31.43% 
+JavaScript               12 hrs 12 mins      ██████░░░░░░░░░░░░░░░░░░░   25.11% 
+JSON                     2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.27% 
+Markdown                 1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19%
 
 🔥 Editors: 
-VS Code                  50 hrs 51 mins      █████████████████████████   100.0%
+VS Code                  48 hrs 37 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    50 hrs 51 mins      █████████████████████████   100.0%
+Linux                    48 hrs 37 mins      █████████████████████████   100.0%
 
 ```
 
@@ -159,7 +159,7 @@ Vue                      6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lcds90/lcds90/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/02/2022 18:50:10 UTC
+ Last Updated on 12/02/2022 18:52:12 UTC
 <!--END_SECTION:waka-->
               
               
