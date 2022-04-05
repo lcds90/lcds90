@@ -81,9 +81,9 @@ Besides programming, i love to learn about production music too! :notes: :musica
        <div align="justify">
               
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C389%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C391%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -91,7 +91,7 @@ Besides programming, i love to learn about production music too! :notes: :musica
 
 > 🏆 173 Contributions in the Year 2022
  > 
-> 📦 565.4 kB Used in GitHub's Storage 
+> 📦 564.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -128,17 +128,17 @@ Sunday       130 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               18 hrs 28 mins      ████████████████████░░░░░   79.73% 
-Vue.js                   3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
-JSON                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57% 
+TypeScript               18 hrs 46 mins      ███████████████████░░░░░░   79.26% 
+Vue.js                   4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.0% 
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.51% 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  23 hrs 10 mins      █████████████████████████   100.0%
+VS Code                  23 hrs 41 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    23 hrs 10 mins      █████████████████████████   100.0%
+Linux                    23 hrs 41 mins      █████████████████████████   100.0%
 
 ```
 
@@ -159,7 +159,7 @@ CSS                      6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lcds90/lcds90/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/04/2022 18:53:25 UTC
+ Last Updated on 05/04/2022 18:58:36 UTC
 <!--END_SECTION:waka-->
               
               
