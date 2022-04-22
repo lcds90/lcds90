@@ -1,4 +1,4 @@
-name: Update metric contributions status with Waka Readme
+name: Update contributions (Waka Readme)
 
 on:
   schedule:
