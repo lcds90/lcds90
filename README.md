@@ -1,5 +1,5 @@
 # Hello, welcome! I'm Leonardo 🌈
-<p align="center">
+<p align="right">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width=20 height=15 / >
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg" width=20 height=15 / >
 </p>
