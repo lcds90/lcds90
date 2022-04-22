@@ -43,7 +43,15 @@ Besides programming, i love to learn about production music too! :notes: :musica
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+
 * * *
+       
+<details>
+       
+<summary>Wakatime and Github Stats Details</summary>
+    
+  <div align="justify">
+
 
 <div align="center">
 <a href="https://wakatime.com/@lcds90">
@@ -67,14 +75,7 @@ Besides programming, i love to learn about production music too! :notes: :musica
 
 </div>
 
-
-* * *
-       
-<details>
-       
-<summary>Wakatime and Github Stats Details</summary>
-       
-  <div align="justify">
+<br />
               
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C477%20hrs%2049%20mins-blue)
