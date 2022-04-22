@@ -4,7 +4,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg" width=20 height=15 / >
 </p>
 
-- <b>Developer</b> aspiring to <b>fullstack</b>
+- <b>Frotnend Engineer</b>, aspiring to <b>fullstack.</b>
 
 - Graduated in <b>Internet Systems Technology</b>.
 
@@ -14,16 +14,15 @@
 
 <img src="./img/computer.gif" width="100px">
 
-**Actually** learning _React_, _Javascript/Typescript_, _Jest_ and  _Node_. 
+**Actually** learning:
 
 </div>
        
 <p align="center"> 
-<img src="https://badges.aleen42.com/src/javascript.svg">
-<img src="https://badges.aleen42.com/src/jest_1.svg">
-<img src="https://badges.aleen42.com/src/node.svg">
-<img src="https://badges.aleen42.com/src/typescript.svg">
 <img src="https://badges.aleen42.com/src/vue.svg">
+<img src="https://badges.aleen42.com/src/typescript.svg">
+<img src="https://badges.aleen42.com/src/node.svg">
+<img src="https://badges.aleen42.com/src/jest_1.svg">
 <br>
 </p>
 
@@ -50,26 +49,29 @@ Besides programming, i love to learn about production music too! :notes: :musica
 
 * * *
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+* * *
+
 <div align="center">
 <a href="https://wakatime.com/@lcds90">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds90&langs_count=10&theme=gruvbox&layout=compact&include_all_commits=true" width="400px"/>
 </a>
 <a href="https://wakatime.com/@lcds90">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=lcds90&count_private=true&theme=gruvbox"/>
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=gruvbox&layout=compact"/>
 </a>
 </div>
 
-* * *
+<br/>
 
 <div align="center">
- <a href="https://wakatime.com/@lcds90">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=gruvbox&layout=compact"/>
+    
+<a href="https://wakatime.com/@lcds90">
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=lcds90&count_private=true&theme=gruvbox"/>
 </a>
-  <img align="center" width="400px" src="https://github-profile-trophy.vercel.app/?username=lcds90&row=2&column=3&theme=gruvbox"/>
+<!-- <img align="center" width="300px" src="https://github-profile-trophy.vercel.app/?username=lcds90&row=2&column=3&theme=gruvbox"/> -->
 
-* * *
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lcds90&theme=dark)](https://git.io/streak-stats)
+<img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=lcds90&theme=dark"/>
 
 </div>
 
@@ -77,8 +79,10 @@ Besides programming, i love to learn about production music too! :notes: :musica
 * * *
        
 <details>
-       <summary>Wakatime and Github Stats Details</summary>
-       <div align="justify">
+       
+<summary>Wakatime and Github Stats Details</summary>
+       
+  <div align="justify">
               
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C477%20hrs%2049%20mins-blue)
@@ -165,6 +169,3 @@ CSS                      6 repos             █░░░░░░░░░░�
               
    </div>
 </details>
-       
-       
-</div>
