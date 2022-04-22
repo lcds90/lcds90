@@ -1,4 +1,4 @@
-name: Update metric contributions status with GitHub-Profile-3D-Contrib
+name: Update contributions (GitHub-Profile-3D-Contrib)
 
 on:
   schedule:
