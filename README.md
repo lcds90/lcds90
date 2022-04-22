@@ -4,7 +4,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg" width=20 height=15 / >
 </p>
 
-- <b>Frotnend Engineer</b>, aspiring to <b>fullstack</b>
+- <b>Frontend Engineer</b>, aspiring to <b>fullstack</b>
 - Graduated in <b>Internet Systems Technology</b>
 - Web Fullstack Developer Student at <b>Trybe</b>
 
