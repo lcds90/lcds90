@@ -1,15 +1,17 @@
-# Hello, welcome! I'm Leonardo 🌈
+# Hello, welcome! I'm Leonardo 🌈👨🏽‍💻
 <p align="right">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width=20 height=15 / >
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg" width=20 height=15 / >
 </p>
 
-- <b>Frontend Engineer</b>, aspiring to <b>fullstack</b>
-- Graduated in <b>Internet Systems Technology</b>
-- Web Fullstack Developer Student at <b>Trybe</b>
-
-<i>I always love to learn new things and pass on knowledge,the principle of my professional and personal growth comes from that, collabartion and spirit team work.</i><br>
-Besides programming, i love to learn about production music too! :notes: :musical_keyboard: :computer:
+- ✨ <b>Frontend Engineer</b>, aspiring to <b>fullstack</b>
+- 🎓 Graduated in <b>Internet Systems Technology</b>
+- 📚 Web Fullstack Developer Student at <b>Trybe</b>
+<br>
+💡 <i>I always love to learn new things and pass on knowledge,the principle of my professional and personal growth comes from that, collabartion and spirit team work.</i>
+<br><br>
+:notes: Besides programming :computer:
+<b>I LOVE</b> to learn about <b>production music</b> too! :musical_keyboard:
 
 * * *
 
@@ -48,7 +50,7 @@ Besides programming, i love to learn about production music too! :notes: :musica
        
 <details>
        
-<summary>Wakatime and Github Stats Details</summary>
+<summary>👨🏽‍💻 Professional background as a developer 💻</summary>
     
   <div align="justify">
 
