@@ -4,47 +4,39 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg" width=20 height=15 / >
 </p>
 
-- <b>Frotnend Engineer</b>, aspiring to <b>fullstack.</b>
-
-- Graduated in <b>Internet Systems Technology</b>.
-
+- <b>Frotnend Engineer</b>, aspiring to <b>fullstack</b>
+- Graduated in <b>Internet Systems Technology</b>
 - Web Fullstack Developer Student at <b>Trybe</b>
 
-<div align="center">
-
-<img src="./img/computer.gif" width="100px">
-
-**Actually** learning:
-
-</div>
-       
-<p align="center"> 
-<img src="https://badges.aleen42.com/src/vue.svg">
-<img src="https://badges.aleen42.com/src/typescript.svg">
-<img src="https://badges.aleen42.com/src/node.svg">
-<img src="https://badges.aleen42.com/src/jest_1.svg">
-<br>
-</p>
-
+<i>I always love to learn new things and pass on knowledge,the principle of my professional and personal growth comes from that, collabartion and spirit team work.</i><br>
 Besides programming, i love to learn about production music too! :notes: :musical_keyboard: :computer:
 
 * * *
 
-<i>I always love to learn new things and pass on knowledge,the principle of my professional and personal growth comes from that, collabartion and spirit team work.</i><br>
+<br />
+    
+<div align="left">
 
-<div align="center">
-       
+<a href="https://lcds.vercel.app/">
+   <img align="center" src="https://img.shields.io/badge/Access-Portfolio-purple"/>
+</a> |
 <a href="https://www.linkedin.com/in/lcds90/">
-  <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=lcds90&color=blue&style=for-the-badge" height=25 width=180/>
+  <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=lcds90&color=blue&style=for-the-badge"/>
 </a>
 <a href="mailto:lcds90@gmail.com">
-  <img align="center" src="https://img.shields.io/static/v1?&logo=gmail&label=Send&message=Email&color=red&style=for-the-badge" height=25 width=160/>
+  <img align="center" src="https://img.shields.io/static/v1?&logo=gmail&label=Send&message=Email&color=red&style=for-the-badge" />
 </a>   
-<a href="https://lcds.vercel.app/">
-  <img align="center" src="https://avatars.githubusercontent.com/u/44562511" height=100 width=100/>
-  Portfólio
-</a>
+ 
+</div>
+
+<div align="right"> 
        
+**Actually** learning:
+ 
+<img src="https://badges.aleen42.com/src/vue.svg">
+<img src="https://badges.aleen42.com/src/typescript.svg">
+<img src="https://badges.aleen42.com/src/node.svg">
+<img src="https://badges.aleen42.com/src/jest_1.svg">
 </div>
 
 * * *
