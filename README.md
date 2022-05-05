@@ -13,6 +13,12 @@
 :notes: Besides programming :computer:
 <b>I LOVE</b> to learn about <b>production music</b> too! :musical_keyboard:
 
+<div align=center>
+    
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lcds90&cover_image=true&theme=novatorem&bar_color=ac61d2&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=lcds90&redirect=true)
+    
+</div>
+
 * * *
 
 <br />
