@@ -86,9 +86,9 @@
 <br />
               
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C609%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C619%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -96,7 +96,7 @@
 
 > 🏆 288 Contributions in the Year 2022
  > 
-> 📦 566.9 kB Used in GitHub's Storage 
+> 📦 567.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -133,17 +133,17 @@ Sunday       164 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               26 hrs 47 mins      ██████████████████░░░░░░░   74.28% 
-Vue.js                   6 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.28% 
-JavaScript               1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19% 
-JSON                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31% 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
+TypeScript               25 hrs 7 mins       ██████████████████░░░░░░░   74.47% 
+Vue.js                   6 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.61% 
+JavaScript               53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63% 
+JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
+HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
 
 🔥 Editors: 
-VS Code                  36 hrs 4 mins       █████████████████████████   100.0%
+VS Code                  33 hrs 44 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    36 hrs 4 mins       █████████████████████████   100.0%
+Linux                    33 hrs 44 mins      █████████████████████████   100.0%
 
 ```
 
@@ -164,7 +164,7 @@ CSS                      6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lcds90/lcds90/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/05/2022 18:51:53 UTC
+ Last Updated on 23/05/2022 18:58:07 UTC
 <!--END_SECTION:waka-->
               
               
