@@ -86,9 +86,9 @@
 <br />
               
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C725%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C726%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -133,16 +133,16 @@ Sunday       267 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               6 hrs 28 mins       ██████████████░░░░░░░░░░░   56.15% 
-Vue.js                   3 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.32% 
-JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.42% 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.11%
+TypeScript               7 hrs 27 mins       █████████████░░░░░░░░░░░░   55.14% 
+Vue.js                   4 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   35.89% 
+JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
 
 🔥 Editors: 
-VS Code                  11 hrs 31 mins      █████████████████████████   100.0%
+VS Code                  13 hrs 32 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    11 hrs 31 mins      █████████████████████████   100.0%
+Linux                    13 hrs 32 mins      █████████████████████████   100.0%
 
 ```
 
@@ -163,7 +163,7 @@ C#                       3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lcds90/lcds90/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/07/2022 19:04:48 UTC
+ Last Updated on 02/07/2022 18:50:04 UTC
 <!--END_SECTION:waka-->
               
               
