@@ -86,21 +86,21 @@
 <br />
               
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C774%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C784%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,009 Contributions in the Year 2022
+> 🏆 1,010 Contributions in the Year 2022
  > 
-> 📦 655.2 kB Used in GitHub's Storage 
+> 📦 655.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 78 Public Repositories 
+> 📜 79 Public Repositories 
  > 
 > 🔑 62 Private Repositories  
  > 
@@ -133,17 +133,17 @@ Sunday       296 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Vue.js                   6 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   43.3% 
-TypeScript               4 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   30.47% 
-Python                   2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
-Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.86%
+Vue.js                   7 hrs 34 mins       █████████████░░░░░░░░░░░░   54.35% 
+TypeScript               4 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.97% 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.32% 
+Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
 
 🔥 Editors: 
-VS Code                  14 hrs 36 mins      █████████████████████████   100.0%
+VS Code                  13 hrs 55 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    14 hrs 36 mins      █████████████████████████   100.0%
+Linux                    13 hrs 55 mins      █████████████████████████   100.0%
 
 ```
 
@@ -164,7 +164,7 @@ C#                       3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lcds90/lcds90/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/07/2022 18:55:19 UTC
+ Last Updated on 24/07/2022 18:52:56 UTC
 <!--END_SECTION:waka-->
               
               
