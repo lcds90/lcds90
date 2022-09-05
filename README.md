@@ -86,17 +86,17 @@
 <br />
               
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C901%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C905%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,232 Contributions in the Year 2022
+> 🏆 1,235 Contributions in the Year 2022
  > 
-> 📦 657.4 kB Used in GitHub's Storage 
+> 📦 657.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,6 +104,49 @@
  > 
 > 🔑 68 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    159 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
+🌆 Daytime    323 commits    ██████░░░░░░░░░░░░░░░░░░░   26.8% 
+🌃 Evening    477 commits    ██████████░░░░░░░░░░░░░░░   39.59% 
+🌙 Night      246 commits    █████░░░░░░░░░░░░░░░░░░░░   20.41%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       142 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.78% 
+Tuesday      164 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
+Wednesday    89 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
+Thursday     115 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.54% 
+Friday       110 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.13% 
+Saturday     234 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
+Sunday       351 commits    ███████░░░░░░░░░░░░░░░░░░   29.13%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Python                   8 hrs 4 mins        ███████████░░░░░░░░░░░░░░   46.86% 
+Vue.js                   5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.85% 
+JavaScript               2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
+TypeScript               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44% 
+JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15%
+
+🔥 Editors: 
+VS Code                  17 hrs 12 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    17 hrs 12 mins      █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -121,7 +164,7 @@ Python                   6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lcds90/lcds90/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:52:35 UTC
+ Last Updated on 05/09/2022 18:56:15 UTC
 <!--END_SECTION:waka-->
               
               
