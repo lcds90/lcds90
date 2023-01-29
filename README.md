@@ -1,62 +1,55 @@
-# Hello, welcome! I'm Leonardo 🌈👨🏽‍💻
-<p align="right">
+# Hello, welcome! 🌈
+
+
+<div>
+    
+
+<a href="https://lcds.vercel.app/" target="_blank">
+   <img align="center" src="https://img.shields.io/static/v1?logo=&label=&message=portfolio&color=purple&style=flat-square"/>
+</a>
+<a href="https://www.linkedin.com/in/lcds90/" target="_blank">
+  <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=&message=lcds90&color=blue&style=flat-square"/>
+</a>
+<a href="https://www.linkedin.com/in/lcds90/" target="_blank">
+  <img align="center" src="https://img.shields.io/static/v1?logo=twitter&label=&message=leo_debugger&color=darkblue&style=flat-square"/>
+</a>
+<a href="mailto:leonardocds1997@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/static/v1?&logo=gmail&label=&message=leonardocds1997@gmail.com&color=darkred&style=flat-square" />
+</a>
+
+<img align="right" src="./profile-3d-contrib/profile-night-rainbow.svg" height="350" />
+
+    
+ <!-- <a href="https://app.daily.dev/lcds" target="_blank">
+    <img
+      width="256"
+      align="right"
+      alt="Leonardo Santos's Dev Card"
+      src="https://api.daily.dev/devcards/fe2021f0c68741c783c6ea65eebc14e7.png?r=27u"
+    />
+  </a> -->
+ 
+</div>
+
+## I am Leonardo Santos ✨
+
+<p>
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width=20 height=15 / >
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg" width=20 height=15 / >
 </p>
 
-- ✨ <b>Frontend Engineer</b>, aspiring to <b>fullstack</b>
+- ✨ Frontend Engineer at [Zenvia](https://www.zenvia.com/)
+- 🌈 Volunteer Tech Lead at [Lacrei](https://www.portallacrei.com.br/)
 - 🎓 Graduated in <b>Internet Systems Technology</b>
-- 📚 Web Fullstack Developer Student at <b>Trybe</b>
+- 📚 [Fullstack developer](https://www.credential.net/dc358612-94a4-45dd-bac6-f4266d31beb0) by [Trybe](https://www.betrybe.com/)
+
+* * *
+
 <br>
-💡 <i>I always love to learn new things and pass on knowledge,the principle of my professional and personal growth comes from that, collabartion and spirit team work.</i>
-<br><br>
-:notes: Besides programming :computer:
-<b>I LOVE</b> to learn about <b>production music</b> too! :musical_keyboard:
-
-<div align=center>
-    
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lcds90&cover_image=true&theme=novatorem&bar_color=ac61d2&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=lcds90&redirect=true)
-    
-</div>
-
-* * *
-
-<br />
-    
-<div align="left">
-
-<a href="https://lcds.vercel.app/">
-   <img align="center" src="https://img.shields.io/badge/Access-Portfolio-purple"/>
-</a> |
-<a href="https://www.linkedin.com/in/lcds90/">
-  <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=lcds90&color=blue&style=for-the-badge"/>
-</a>
-<a href="mailto:lcds90@gmail.com">
-  <img align="center" src="https://img.shields.io/static/v1?&logo=gmail&label=Send&message=Email&color=red&style=for-the-badge" />
-</a>   
- 
-</div>
-
-<div align="right"> 
-       
-**Actually** learning:
- 
-<img src="https://badges.aleen42.com/src/vue.svg">
-<img src="https://badges.aleen42.com/src/typescript.svg">
-<img src="https://badges.aleen42.com/src/node.svg">
-<img src="https://badges.aleen42.com/src/jest_1.svg">
-</div>
-
-* * *
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-* * *
        
 <details>
        
-<summary>👨🏽‍💻 Professional background as a developer 💻</summary>
+<summary>My Dev Metrics 💻📊</summary>
     
   <div align="justify">
 
