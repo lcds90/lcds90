@@ -4,7 +4,7 @@
 <div>
     
 
-<a href="https://lcds.vercel.app/" target="_blank">
+<a href="http://developed-ideas.vercel.app/" target="_blank">
    <img align="center" src="https://img.shields.io/static/v1?logo=&label=&message=portfolio&color=purple&style=flat-square"/>
 </a>
 <a href="https://www.linkedin.com/in/lcds90/" target="_blank">
@@ -52,14 +52,12 @@
 <summary>My Dev Metrics 💻📊</summary>
 
    
-<div align="center" href="https://wakatime.com/@lcds90">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcds90&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=gruvbox&layout=compact" /> 
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds90&langs_count=10&theme=gruvbox&layout=compact&include_all_commits=true" /> -->
-</div>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=tokyonight&layout=compact" /> 
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=lcds90&theme=radical&hide_border=true&locale=pt_BR" />
 
-<br>
+<br />
+<br />
               
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C265%20hrs%201%20min-blue)
