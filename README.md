@@ -53,8 +53,8 @@
 
    
 
-<img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=tokyonight&layout=compact" /> 
-<img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lcds90&theme=radical&hide_border=true&locale=pt_BR" />
+<img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=tokyonight&layout=compact" /> 
+<img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lcds90&theme=radical&hide_border=true&locale=pt_BR" />
 
 <br />
 <br />
