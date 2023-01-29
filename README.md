@@ -17,7 +17,7 @@
   <img align="center" src="https://img.shields.io/static/v1?&logo=gmail&label=&message=leonardocds1997@gmail.com&color=darkred&style=flat-square" />
 </a>
 
-<img align="right" src="./profile-3d-contrib/profile-night-rainbow.svg" height="350" />
+<img align="right" src="./profile-3d-contrib/profile-night-rainbow.svg" height="300" />
 
     
  <!-- <a href="https://app.daily.dev/lcds" target="_blank">
@@ -50,33 +50,16 @@
 <details>
        
 <summary>My Dev Metrics 💻📊</summary>
-    
-  <div align="justify">
 
-
-<div align="center">
-<a href="https://wakatime.com/@lcds90">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds90&langs_count=10&theme=gruvbox&layout=compact&include_all_commits=true" width="400px"/>
-</a>
-<a href="https://wakatime.com/@lcds90">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=gruvbox&layout=compact"/>
-</a>
+   
+<div align="center" href="https://wakatime.com/@lcds90">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcds90&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=gruvbox&layout=compact" /> 
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds90&langs_count=10&theme=gruvbox&layout=compact&include_all_commits=true" /> -->
 </div>
 
-<br/>
 
-<div align="center">
-    
-<a href="https://wakatime.com/@lcds90">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=lcds90&count_private=true&theme=gruvbox"/>
-</a>
-<!-- <img align="center" width="300px" src="https://github-profile-trophy.vercel.app/?username=lcds90&row=2&column=3&theme=gruvbox"/> -->
-
-<img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=lcds90&theme=dark"/>
-
-</div>
-
-<br />
+<br>
               
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C265%20hrs%201%20min-blue)
