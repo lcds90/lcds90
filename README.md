@@ -17,7 +17,7 @@
   <img align="center" src="https://img.shields.io/static/v1?&logo=gmail&label=&message=leonardocds1997@gmail.com&color=darkred&style=flat-square" />
 </a>
 
-<img align="right" src="./profile-3d-contrib/profile-night-rainbow.svg" height="250" />
+<img align="right" src="./profile-3d-contrib/profile-night-rainbow.svg" height="275" />
 
     
  <!-- <a href="https://app.daily.dev/lcds" target="_blank">
@@ -53,8 +53,8 @@
 
    
 
-<img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=tokyonight&layout=compact" /> 
-<img width="40%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lcds90&theme=radical&hide_border=true&locale=pt_BR" />
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=tokyonight&layout=compact" /> 
+<img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lcds90&theme=radical&hide_border=true&locale=pt_BR" />
 
 <br />
 <br />
