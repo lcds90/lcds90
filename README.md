@@ -31,7 +31,7 @@
 
 ## I am Leonardo Santos ✨
 
-<img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com?user=lcds90&theme=radical&hide_border=true&locale=pt_BR" />
+<img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com?user=lcds90&theme=radical&hide_border=true" />
 
 - ✨ Frontend Engineer at [Zenvia](https://www.zenvia.com/)
 - 🌈 Volunteer Tech Lead at [Lacrei](https://www.portallacrei.com.br/)
