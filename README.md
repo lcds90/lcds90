@@ -18,19 +18,19 @@
 
 <!-- <img align="right" src="./profile-3d-contrib/profile-night-rainbow.svg" height="275" /> -->
     
-<a href="https://app.daily.dev/lcds" target="_blank">
+<div  align="right" href="https://app.daily.dev/lcds" target="_blank">
     <img
       width="256"
       align="right"
       alt="Leonardo Santos's Dev Card"
       src="https://api.daily.dev/devcards/fe2021f0c68741c783c6ea65eebc14e7.png?r=27u"
     />
-</a>
+</div>
 
 </div>
 
 ## I am Leonardo Santos ✨
-
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=lcds90&theme=radical&hide_border=true&locale=pt_BR" />
 
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width=20 height=15 / >
@@ -42,6 +42,8 @@
 - 🎓 Graduated in <b>Internet Systems Technology</b>
 - 📚 [Fullstack developer](https://www.credential.net/dc358612-94a4-45dd-bac6-f4266d31beb0) by [Trybe](https://www.betrybe.com/)
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lcds90&theme=radical&hide_border=true&locale=pt_BR" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=tokyonight&layout=compact" />
+---
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=tokyonight&layout=compact" />
+</div>
